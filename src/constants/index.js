@@ -262,10 +262,6 @@ import {
           name: "tailwindcss",
           color: "pink-text-gradient",
         },
-        {
-          name: "brightdata",
-          color: "pink-text-gradient",
-        },
       ],
       image: pricewise,
       source_code_link: "https://github.com/Theogama/pricewise.git",
